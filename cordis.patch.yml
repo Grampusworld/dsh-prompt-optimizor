@@ -1,0 +1,3 @@
+- insert:
+    - id: dsh-prompt-optimizor
+      name: '@local/dsh-prompt-optimizor'

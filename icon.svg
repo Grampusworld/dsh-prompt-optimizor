@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Prompt Optimizor">
+  <defs>
+    <linearGradient id="po-bg" x1="8" y1="4" x2="56" y2="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5B7BFF"/>
+      <stop offset="1" stop-color="#A46BFF"/>
+    </linearGradient>
+  </defs>
+  <rect x="3" y="3" width="58" height="58" rx="16" fill="url(#po-bg)"/>
+  <path d="M26 14.5l3.1 7.9 7.9 3.1-7.9 3.1L26 36.5l-3.1-7.9L15 25.5l7.9-3.1z" fill="#FFFFFF"/>
+  <path d="M41.5 30l1.9 4.8 4.8 1.9-4.8 1.9-1.9 4.8-1.9-4.8L34.8 36.7l4.8-1.9z" fill="#FFFFFF" opacity="0.92"/>
+  <path d="M21 45.5h14" stroke="#FFFFFF" stroke-width="3.2" stroke-linecap="round" opacity="0.75"/>
+  <path d="M21 52h7" stroke="#FFFFFF" stroke-width="3.2" stroke-linecap="round" opacity="0.45"/>
+</svg>
