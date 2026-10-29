@@ -13,6 +13,10 @@ A [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) plugin tha
 - Drafts that contain attachment or `@`-reference placeholders are skipped with a hint instead of being rewritten, so references are never dropped.
 - Ships its own settings panel under **Plugins → Prompt Optimizor**.
 
+The button sits at the bottom-right corner of the composer:
+
+![The ✦ button at the bottom-right of the composer](assets/screenshot-1.png)
+
 ## Install
 
 ```sh
@@ -41,7 +45,7 @@ Reload after editing the source: disable and re-enable the plugin (or refresh th
 
 **Save and test** saves first, then runs a sample prompt end to end and shows the before/after.
 
-![Settings panel](assets/screenshot-1.png)
+![Settings panel](assets/screenshot-2.png)
 
 ## How it works
 

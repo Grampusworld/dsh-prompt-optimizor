@@ -13,6 +13,10 @@
 - 草稿里含附件或 `@` 引用占位符时不会替换，而是给出提示，避免把引用弄丢。
 - 自带设置页：**插件 → 提示词优化**。
 
+按钮在输入框右下角：
+
+![输入框右下角的 ✦ 按钮](assets/screenshot-1.png)
+
 ## 安装
 
 ```sh
@@ -41,7 +45,7 @@ plugin_manager action=install_bundle target=/你的绝对路径/dsh-PromptOptimi
 
 **保存并测试** 会先保存配置，再用一句示例提示词实跑一次，把原文和结果都显示出来。
 
-![设置面板](assets/screenshot-1.png)
+![设置面板](assets/screenshot-2.png)
 
 ## 实现
 
